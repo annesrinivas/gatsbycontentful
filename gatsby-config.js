@@ -32,11 +32,11 @@ module.exports = {
         slug: '/about/',
       },
       {
-        name: 'Submit',
+        name: 'Submit your items',
         slug: '/contact/',
       },
     ],
-    postsPerFirstPage: 7,
+    postsPerFirstPage: 4,
     postsPerPage: 6,
     basePath: '/',
   },
