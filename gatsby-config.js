@@ -29,10 +29,10 @@ module.exports = {
       },
       {
         name: 'About',
-        slug: '/about/',
+        slug: '/aboutme/',
       },
       {
-        name: 'Submit your items',
+        name: 'Submit',
         slug: '/contact/',
       },
     ],
